@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<robot name="materials">
+
+  <!-- Define materials -->
+  <material name="blue">
+    <color rgba="0 0 0.8 1"/> <!-- Blue color -->
+  </material>
+
+  <material name="white">
+    <color rgba="1 1 1 1"/> <!-- White color -->
+  </material>
+
+  <!-- Base link: cylinder in blue -->
+  <link name="base_link">
+    <visual>
+      <geometry>
+        <cylinder length="0.6" radius="0.2"/> <!-- Cylinder dimensions -->
+      </geometry>
+      <material name="blue"/> <!-- Apply blue material -->
+    </visual>
+  </link>
+
+  <!-- Right leg link: box in white -->
+  <link name="right_leg">
+    <visual>
+      <geometry>
+        <box size="0.6 0.1 0.2"/> <!-- Box dimensions -->
+      </geometry>
+      <origin rpy="0 1.57075 0" xyz="0 0 -0.3"/> <!-- Rotate 90° around Y and move down -->
+      <material name="white"/> <!-- Apply white material -->
+    </visual>
+  </link>
+
+  <!-- Fixed joint connecting base to right leg -->
+  <joint name="base_to_right_leg" type="fixed">
+    <parent link="base_link"/>
+    <child link="right_leg"/>
+    <origin xyz="0 -0.22 0.25"/> <!-- Position right leg relative to base -->
+  </joint>
+
+  <!-- Left leg link: box in white -->
+  <link name="left_leg">
+    <visual>
+      <geometry>
+        <box size="0.6 0.1 0.2"/> <!-- Box dimensions -->
+      </geometry>
+      <origin rpy="0 1.57075 0" xyz="0 0 -0.3"/> <!-- Rotate 90° around Y and move down -->
+      <material name="white"/> <!-- Apply white material -->
+    </visual>
+  </link>
+
+  <!-- Fixed joint connecting base to left leg -->
+  <joint name="base_to_left_leg" type="fixed">
+    <parent link="base_link"/>
+    <child link="left_leg"/>
+    <origin xyz="0 0.22 0.25"/> <!-- Position left leg relative to base -->
+  </joint>
+
+</robot>

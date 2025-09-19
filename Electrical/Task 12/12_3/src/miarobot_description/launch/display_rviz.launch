@@ -1,0 +1,16 @@
+<launch>
+  <!-- Load robot description -->
+  <param name="robot_description" 
+         command="$(find xacro)/xacro '$(find miarobot_description)/urdf/model.urdf.xacro'" />
+
+  <!-- Start joint_state_publisher (for sliders if no controllers running) -->
+  <node name="joint_state_publisher" pkg="joint_state_publisher_gui" type="joint_state_publisher_gui" />
+
+  <!-- Start robot_state_publisher -->
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" output="screen">
+    <param name="publish_frequency" type="double" value="30.0"/>
+  </node>
+
+  <!-- Start RViz -->
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find miarobot_description)/rviz/display.rviz"/>
+</launch>

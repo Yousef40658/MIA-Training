@@ -1,0 +1,13 @@
+<launch>
+  <!-- Load URDF into robot_description -->
+  <param name="robot_description" textfile="$(find your_robot_description)/urdf/four_wheel_robot.urdf"/>
+
+  <!-- Launch robot_state_publisher to publish TF -->
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+
+  <!-- Launch joint_state_publisher GUI (to move wheels if needed) -->
+  <node name="joint_state_publisher" pkg="joint_state_publisher_gui" type="joint_state_publisher_gui" />
+
+  <!-- Launch RViz with robot model -->
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find your_robot_description)/rviz/robot.rviz" required="true"/>
+</launch>
