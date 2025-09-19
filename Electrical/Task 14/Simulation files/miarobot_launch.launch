@@ -1,0 +1,20 @@
+<launch>
+  <arg name="use_lidar" default="true"/>
+  <param name="robot_description" 
+         command="$(find xacro)/xacro '$(find miarobot_description)/urdf/model.urdf.xacro' use_lidar:=$(arg use_lidar)" />
+  <node name="joint_state_publisher" pkg="joint_state_publisher_gui" type="joint_state_publisher_gui" />
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" output="screen">
+    <param name="publish_frequency" type="double" value="30.0"/>
+  </node>
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="/home/hod/Untitled/my_world.world"/> 
+    <arg name="paused" value="false"/>
+    <arg name="use_sim_time" value="true"/>
+    <arg name="gui" value="true"/>
+  </include>
+  <node name="spawn_urdf" pkg="gazebo_ros" type="spawn_model" output="screen"
+        args="-param robot_description -urdf -model miarobot -x 0 -y 0 -z 0.01  -Y 3.14159" />
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find miarobot_description)/rviz/miarobot.rviz" />
+  <node pkg="miarobot_description" type="ultrasonics.py" name="ultrasonics" output="screen"/>
+  <node pkg="miarobot_description" type="yaw.py" name="yaw" output="screen"/>
+</launch>
