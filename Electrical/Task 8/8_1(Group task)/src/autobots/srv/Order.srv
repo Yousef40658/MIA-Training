@@ -1,0 +1,4 @@
+string order              # request from client
+---
+string confirmation       # response from server
+

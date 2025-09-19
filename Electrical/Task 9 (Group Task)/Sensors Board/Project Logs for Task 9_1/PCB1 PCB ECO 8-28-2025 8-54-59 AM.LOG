@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=HRC_Trig Pin=J1-7
+Removed Pin From Net: NetName=HRC_Echo Pin=J1-8
+Change Component Description : Designator=U3 Old Description=Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055 New Description=Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055 | Adafruit Industries 2472
+Added Pin To Net: NetName=HRC_Echo Pin=J1-7
+Added Pin To Net: NetName=HRC_Trig Pin=J1-8

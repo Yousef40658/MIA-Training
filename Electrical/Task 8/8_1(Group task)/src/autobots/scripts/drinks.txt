@@ -1,0 +1,6 @@
+{
+  "Soda": (1.99, 2, "Refreshing carbonated drink available in multiple flavors"),
+  "Milkshake": (3.99, 5, "Creamy milkshake with vanilla, chocolate, or strawberry flavors"),
+  "Energon Drink": (5.50, 3, "Special energizing drink inspired by Transformers")
+}
+

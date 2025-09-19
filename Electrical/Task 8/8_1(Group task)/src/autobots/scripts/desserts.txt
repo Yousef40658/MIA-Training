@@ -1,0 +1,6 @@
+{
+  "Chocolate": (2.99, 1, "Rich and smooth milk chocolate bar"),
+  "Biscuit": (1.50, 1, "Crunchy butter biscuit"),
+  "Unicron Treat": (4.25, 4, "Colorful cosmic dessert inspired by Transformers")
+}
+

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=SCL Pin=D6-1
+Removed Pin From Net: NetName=SCL Pin=R8-2
+Removed Pin From Net: NetName=SCL Pin=U3-5
+Added Pin To Net: NetName=3.3V Pin=C4-1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=Net_23
+Change Net Name : Old Net Name=NetR3_1 New Net Name=Net_24
+Change Net Name : Old Net Name=NetR9_1 New Net Name=Net_3
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R8-2
+Added Pin To Net: NetName=NetD6_1 Pin=U3-5
+Added Net: Name=NetD6_1
+Added Member To Class: ClassName=Sheet1 Member=Component D9 151031VS06000
+Added Member To Class: ClassName=Sheet1 Member=Component R11 330
+Added Member To Class: ClassName=Sheet1 Member=Component  PMS9P1B10M2QE
+Added Member To Class: ClassName=Sheet1 Member=Component  1 Uf
+Added Member To Class: ClassName=Sheet1 Member=Component  824550781
+Added Member To Class: ClassName=Sheet1 Member=Component  MPU-6050
+Added Member To Class: ClassName=Sheet1 Member=Component  282837-2

@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=D2
+Change Component Designator: OldDesignator= NewDesignator=S1
+Change Component Designator: OldDesignator= NewDesignator=U1
+Change Component Description : Designator=U3 Old Description=Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055 New Description=Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055 | Adafruit Industries 2472
+Added Pin To Net: NetName=3.3V Pin=C4-1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 1 Uf
+Added Member To Class: ClassName=Sheet1 Member=Component D2 824550781
+Added Member To Class: ClassName=Sheet1 Member=Component D9 151031VS06000
+Added Member To Class: ClassName=Sheet1 Member=Component R11 330
+Added Member To Class: ClassName=Sheet1 Member=Component S1 PMS9P1B10M2QE
+Added Member To Class: ClassName=Sheet1 Member=Component  282837-2
+Added Member To Class: ClassName=Sheet1 Member=Component U1 MPU-6050

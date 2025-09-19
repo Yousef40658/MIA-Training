@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=8.4+ Pin=J?-1
+Removed Pin From Net: NetName=Piston Pin=J?-2
+Removed Pin From Net: NetName=Piston Pin=U?-1
+Change Component Designator: OldDesignator=J NewDesignator=J?
+Added Pin To Net: NetName=Piston Pin=C?-2
+Added Pin To Net: NetName=Piston Pin=F?-1
+Added Pin To Net: NetName=Piston Pin=J?-1
+Added Pin To Net: NetName=Piston Pin=Q?-4
+Added Pin To Net: NetName=Piston Pin=U?-5
+Change Net Name : Old Net Name=Piston New Net Name=12+
+Add Net: Net with name "NetLED?_A" already exists
+Add Net: Net with name "NetLED?_A" already exists
+Add Net: Net with name "NetLED?_A" already exists
+Add Net: Net with name "NetLED?_K" already exists
+Add Net: Net with name "NetQ?_2" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1 uf ceramic
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1 uf ceramic
+Added Member To Class: ClassName=Sheet1 Member=Component C? FA14X8R1H104KNU06
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1 uf ceramic
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1 uf ceramic
+Added Member To Class: ClassName=Sheet1 Member=Component C? ECA2AM471B
+Added Member To Class: ClassName=Sheet1 Member=Component C? CL10B105KO8NNNC
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1 uf ceramic
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1 uf ceramic
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1 uf ceramic
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1 uf ceramic
+Added Member To Class: ClassName=Sheet1 Member=Component D? SMBJ12A
+Added Member To Class: ClassName=Sheet1 Member=Component D? MBRD1045T4G
+Added Member To Class: ClassName=Sheet1 Member=Component D? SMBJ8.0CA
+Added Member To Class: ClassName=Sheet1 Member=Component D? SMBJ12A
+Added Member To Class: ClassName=Sheet1 Member=Component F? 0154007.DR
+Added Member To Class: ClassName=Sheet1 Member=Component J? 282836-3
+Added Member To Class: ClassName=Sheet1 Member=Component J? OSTTF020161
+Added Member To Class: ClassName=Sheet1 Member=Component J? USBR-B-S-S-O-VT
+Added Member To Class: ClassName=Sheet1 Member=Component J? 282836-3
+Added Member To Class: ClassName=Sheet1 Member=Component J? 282836-3
+Added Member To Class: ClassName=Sheet1 Member=Component L? AMDLA1004S-470MT
+Added Member To Class: ClassName=Sheet1 Member=Component LED? TLLR4400
+Added Member To Class: ClassName=Sheet1 Member=Component LED? TLLR4400
+Added Member To Class: ClassName=Sheet1 Member=Component LED? TLLR4400
+Added Member To Class: ClassName=Sheet1 Member=Component LED? TLLR4400
+Added Member To Class: ClassName=Sheet1 Member=Component LED? TLLR4400
+Added Member To Class: ClassName=Sheet1 Member=Component LED? TLLR4400
+Added Member To Class: ClassName=Sheet1 Member=Component Q? 2N3904
+Added Member To Class: ClassName=Sheet1 Member=Component Q? 2N3904
+Added Member To Class: ClassName=Sheet1 Member=Component Q? MTB50P03HDLT4G
+Added Member To Class: ClassName=Sheet1 Member=Component Q? MTB50P03HDLT4G
+Added Member To Class: ClassName=Sheet1 Member=Component Q? MTB50P03HDLT4G
+Added Member To Class: ClassName=Sheet1 Member=Component R? 14.3
+Added Member To Class: ClassName=Sheet1 Member=Component R? 4.7k
+Added Member To Class: ClassName=Sheet1 Member=Component R? MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1.5
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 4.7k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 330
+Added Member To Class: ClassName=Sheet1 Member=Component R? 330
+Added Member To Class: ClassName=Sheet1 Member=Component R? MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component U? XL4015
+Added Member To Class: ClassName=Sheet1 Member=Component U? AMS1117-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32F103C8T6

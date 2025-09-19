@@ -1,0 +1,1 @@
+{ "Pizza": (8.99, 15, "Classic cheese and tomato pizza with fresh basil"), "Pasta": (10.50, 20, "Creamy Alfredo pasta with mushrooms and parmesan"), "Hamburger": (7.75, 12, "Juicy beef patty with lettuce, tomato, and cheese"), "Steak": (18.99, 25, "Grilled sirloin steak served with mashed potatoes") }

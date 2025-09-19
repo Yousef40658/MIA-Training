@@ -1,0 +1,6 @@
+{
+  "Chips": (2.50, 5, "Crispy salted potato chips"),
+  "Onion Rings": (3.75, 7, "Golden fried onion rings with dipping sauce"),
+  "Nachos": (4.50, 10, "Corn tortilla chips topped with melted cheese and jalapeños")
+}
+

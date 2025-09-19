@@ -1,0 +1,85 @@
+Added Component: Designator=C?(CAPC1005X55N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0402C104K4RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0402C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "402-2 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0402C104K4RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOM4336X265N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SMBJ12A/taiwan/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMBJ12A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SMBJ12A/taiwan/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F?(0154007.DR)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0154007.DR/Littelfuse+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0154007.DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=0154007.DR&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0154007.DR/Littelfuse+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(OST_OSTTF020161)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/OSTTF020161/ON/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "On Shore"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "OSTTF020161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/OSTTF020161/ON/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(OST_OSTTF020161)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/OSTTF020161/ON/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "On Shore"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "OSTTF020161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/OSTTF020161/ON/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(ONSC-D2PAK-3-418B-04_V)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTB50P03HDLT4G/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTB50P03HDLT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "D2PAK ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MTB50P03HDLT4G/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTB50P03HDLT4G/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESAD1100W55L680D260)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-10K/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25FBF52-10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-10K/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(QFP50P900X900X160-48N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/STM32F103C8T6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-48 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F103C8T6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=Protected Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=Protected Pin=D?-C
+Added Pin To Net: NetName=8.4 Pin=F?-1
+Added Pin To Net: NetName=NetF?_2 Pin=F?-2
+Added Pin To Net: NetName=8.4 Pin=J?-1
+Added Pin To Net: NetName=8.4 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=Protected Pin=Q?-3
+Added Pin To Net: NetName=NetF?_2 Pin=Q?-4
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Member To Class: ClassName=Sheet1 Member=Component C? Ceramic, Cap, .100u
+Added Member To Class: ClassName=Sheet1 Member=Component D? SMBJ12A
+Added Member To Class: ClassName=Sheet1 Member=Component F? 0154007.DR
+Added Member To Class: ClassName=Sheet1 Member=Component J? OSTTF020161
+Added Member To Class: ClassName=Sheet1 Member=Component J? OSTTF020161
+Added Member To Class: ClassName=Sheet1 Member=Component Q? MTB50P03HDLT4G
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32F103C8T6
